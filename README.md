@@ -30,7 +30,7 @@ This project uses the \[Spotify Tracks Dataset from Kaggle\](https://www.kaggle.
 
 1\. Clone the repository:  
    \`\`\`bash  
-   git clone https://github.com/your-username/spotify-playlist-builder.git  
+   git clone https://github.com/cuevas485/spotify-playlist-builder.git  
    cd spotify-playlist-builder  
 2\. Make sure you have Python 3.7+ installed.
 
